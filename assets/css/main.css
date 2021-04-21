@@ -2233,7 +2233,7 @@ input, select, textarea {
 			.main > header p {
 				margin: 2em 0 0 0;
 				padding: 0;
-				text-align: center;
+				text-align: justify;
 			}
 
 		.main > .content {
