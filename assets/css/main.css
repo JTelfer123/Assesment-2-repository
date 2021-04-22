@@ -94,11 +94,14 @@ input, select, textarea {
 		line-height: 1.75em;
 		color: #000;
 		-webkit-text-stroke: 0.1px;
+		text-align: left;
 	}
 	bf {
       font-size: 150%;
+			text-align: left;
 
 }
+
 
 		body.is-preload *, body.is-preload *:before, body.is-preload *:after {
 			-moz-animation: none !important;
@@ -254,6 +257,7 @@ input, select, textarea {
 		margin: 0 auto;
 		max-width: 100%;
 		width: 1360px;
+		text-align: left;
 	}
 
 		.container.medium {
@@ -314,7 +318,7 @@ input, select, textarea {
 		}
 
 		.row.aln-center {
-			justify-content: center;
+			justify-content: left;
 		}
 
 		.row.aln-right {
