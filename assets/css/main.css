@@ -92,9 +92,13 @@ input, select, textarea {
 		font-weight: 300;
 		font-size: 17pt;
 		line-height: 1.75em;
-		color: #888;
+		color: #000;
 		-webkit-text-stroke: 0.1px;
 	}
+	bf {
+      font-size: 150%;
+
+}
 
 		body.is-preload *, body.is-preload *:before, body.is-preload *:after {
 			-moz-animation: none !important;
